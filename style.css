@@ -1,0 +1,49 @@
+body {
+    background-color: #2d2d30 !important;
+}
+
+.title_menu {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'MV Boli', sans-serif;
+    font-weight: 600;
+    color: #FFAC1C;
+    padding-top: 38px;
+}
+
+.list-group {
+    justify-content: center;
+    gap: 20px;
+}
+
+.list-group-item {
+    border: 1px solid black !important;
+    border-radius: 5px !important;
+    background-color: #f1f5f8 !important;
+}
+
+.list-group-item:hover {
+    background-color: #FFAC1C !important;
+    color: #f1f5f8 !important;
+}
+
+.card-img {
+    padding: 10;
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+
+.card-title {
+    display: flex;
+    justify-content: space-between;
+    color: #FFAC1C;
+}
+
+.card {
+    background-color: #f1f5f8 !important;
+    border: 1px solid #000 !important;
+}
+
+.col-4 {
+    padding: 0px !important;
+}
